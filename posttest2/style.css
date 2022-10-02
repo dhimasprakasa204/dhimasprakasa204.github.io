@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo-utama{
+    float: left;
+    padding: left;
+    padding-top: 5px;
+}
+
+.section-title{
+    font-size: 30px;
+    border-bottom: 2px solid white;
+}
+
+.header{
+    background-color: #b11b1b;
+    color: white;
+    height: 90px;
+}
+
+.header-logo{
+    float: left;
+    font-size: 36px;
+    /* padding: 20px 40px; */
+    padding-top: 20px;
+    padding-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.header-list li{
+    float: right;
+    padding: 33px 40px;
+}
+
+.header-list a{
+    color: white;
+}
+
+li{
+    list-style: none;
+    /* float: left;
+    padding: 33px 20px; */
+}
+
+.main{
+    background-color:#d9d9d9;
+    padding: 100px 80px;
+}
+
+.footer{
+    background-color: #b11b1b;
+    color: white;
+    height: 120px;
+    padding: 40px;
+}
+
+.footer-logo{
+    font-size: 32px;
+    float: left;
+    padding-top: 30px;
+}
+
+.footer-list{
+    float: right;
+}
+
+.footer-list li{
+    padding: 8px 35px;
+
+}
+
+.copy-container span{
+    color: red;
+}
+
+.copy-container h1{
+    font-size: 140px;
+}
+
+.copy-container h2{
+    font-size: 60px;
+}
+
+.contents{
+    height: 200px;
+}
+
+.contents-item{
+    float: left;
+    margin-right: 40px;
+}
+
+.contents-item p{
+    text-align: center;
+    font-size: 15px;
+    margin-top: 15px;
+}
+
+.contact-form{
+    padding-top: 100px;
+}
+
+.contact-form input{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid white;
+}
+.contact-form textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid white;
+}
+
+.contact-submit{
+    background: #b11b1b;
+    color: white;
+}
+
